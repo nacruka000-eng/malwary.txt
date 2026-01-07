@@ -1,4 +1,4 @@
-version:1.0.6
+version 1.0.7(Beta)
 SecretWindowsUpdater[Core].exe
 SecretWindowsUpdater(Core).exe
 SecretWindowsUpdater(Core)
@@ -42,6 +42,8 @@ AyuGram.ink
 360 Total Security
 360 Total Security.exe
 360 Total Security.ink
+d27aa8309d97a26055b93f7396717f36767ceb4f3d27d995d5e00efb6489dba5
+5x8ei2z.exe
 86b48f96dc2d58d7d2f6887359d37318924f911bc97864a1f7c68ae2dc0c9a2c
 Setup.exe
 2c92b97a1eec3a386d502bba87546daf3711b7fa7e6ab76740f6129a9c8bc59f
