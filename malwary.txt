@@ -1,4 +1,4 @@
-version 1.0.7
+version: 1.0.7
 SecretWindowsUpdater[Core].exe
 SecretWindowsUpdater(Core).exe
 SecretWindowsUpdater(Core)
