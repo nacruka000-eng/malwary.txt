@@ -1,4 +1,4 @@
-version:1.0.9
+version:1.1.0
 SecretWindowsUpdater[Core].exe
 SecretWindowsUpdater(Core).exe
 SecretWindowsUpdater(Core)
@@ -66,6 +66,22 @@ d27aa8309d97a26055b93f7396717f36767ceb4f3d27d995d5e00efb6489dba5
 Setup.exe
 2c92b97a1eec3a386d502bba87546daf3711b7fa7e6ab76740f6129a9c8bc59f
 360Installer.exe
+efbcb5c468e26bbb6e0652fb71b92be35ff69780e8943c5259fb2b49ba70a6c9
+Brawl stars 2 (3).apk
+efbcb5c468e26bbb6e0652fb71b92be35ff69780e8943c5259fb2b49ba70a6c9
+Brawl stars 2 (2).apk
+efbcb5c468e26bbb6e0652fb71b92be35ff69780e8943c5259fb2b49ba70a6c9
+Brawl stars 2 (1).apk
+efbcb5c468e26bbb6e0652fb71b92be35ff69780e8943c5259fb2b49ba70a6c9
+Brawl stars 2.apk
+02001bfa07cf10b7cd30753ae937eb23aa986db4cc37b18821d413d2c8cc0fea
+Cabir.sis
+d279b25587f8d2d6e22bf6c8b534fdac0d3971ea34c2f264e29aa3c8c4390d9c
+Melissa.doc
+1ba0265c8bb16e06f9796515efdc1c790b9ea7880ca7330d41a0d4e2a41a1aea
+Samy Worm.html
+36f40d5a11d886a2280c57859cd5f22de2d78c87dcdb52ea601089745eeee494
+WannaCry (2).apk
 2482b4ff45338160063416aa0588e8d9d8098234dc2b584ed5fc3fb96947fb43
 4a47f9c49216075c6e0c9d64b2ba110ca19816fa86cb43afe9ccb941f75305a0
 33ca487a65d38bad82dccfa0d076bad071466e4183562d0b1ad1a2e954667fe9
