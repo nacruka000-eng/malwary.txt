@@ -1,4 +1,4 @@
-version:1.1.0
+version:1.1.1
 SecretWindowsUpdater[Core].exe
 SecretWindowsUpdater(Core).exe
 SecretWindowsUpdater(Core)
@@ -12,6 +12,9 @@ Kaspersky.ink
 Bluestacks.exe
 Bluestacks
 Bluestacks.ink
+Bluestacks 5.exe
+Bluestacks 5.ink
+Bluestacks 5
 MobiGame.exe
 MobiGame
 MobiGame.ink
