@@ -1,4 +1,4 @@
-#version=1.1.3
+#version=1.1.4
 SecretWindowsUpdater[Core].exe
 SecretWindowsUpdater(Core).exe
 SecretWindowsUpdater(Core)
@@ -75,6 +75,8 @@ mobi.game.launcher.json
 MobiGameUpdater.exe
 MobiGameUpdater.InstallLog
 MobiGameUpdater.InstallState
+991c9fba76cd5dd36483edd8bb9e33468ae88773ab52d3bce5ee1d535eb93274
+ccb9502bf8ba5becf8b758ca04a5625c30b79e2d10d2677cc43ae4253e1288ec
 de352dbc29156cf07d252a0f0cb68be5a2ae024b2076306d6d21b68ebed7e18e
 50fca9eafce1ecef918f9a5bde342e42d28fa0aa0a790d4acc26822644ac01f3
 810741c13aa1fced914734152692228846281b3f70cdad5d41b77979463e7be2
