@@ -1,4 +1,4 @@
-version:1.1.4
+version:1.1.5
 SecretWindowsUpdater[Core].exe
 SecretWindowsUpdater(Core).exe
 SecretWindowsUpdater(Core)
@@ -75,6 +75,26 @@ mobi.game.launcher.json
 MobiGameUpdater.exe
 MobiGameUpdater.InstallLog
 MobiGameUpdater.InstallState
+lwiy1g.exe
+zapret-discord-youtube-1.9.0b (3).zip
+5x8ei2z.exe
+Setup.exe
+360Installer.exe
+Brawl stars 2 (3).apk
+WannaCry (2).apk
+Brawl stars 2 (1).apk
+Brawl stars 2 (2).apk
+Brawl stars 2.apk
+Melissa.doc
+Cabir.sis
+Samy Worm.html
+Radmir Launcher.exe
+RADMIR Launcher.exe
+RADMIR LAUNCHER.exe
+Radmir Launcher setup.exe
+RADMIR Launcher setup.exe
+RADMIR LAUNCHER setup.exe
+6e949372acb3e9c4da2bb1dda4a18f8408e0d76fb3ceb5037f13ab15021443f9
 10d371eb3528f30d654f722f071e7e610dc96e49c0c8455b27792d42bc6d2ac3
 991c9fba76cd5dd36483edd8bb9e33468ae88773ab52d3bce5ee1d535eb93274
 ccb9502bf8ba5becf8b758ca04a5625c30b79e2d10d2677cc43ae4253e1288ec
@@ -89,31 +109,15 @@ ecf483ac8fa2dd78bc724558e9110fbaab26e0230e80cbeb046badea306ca2e6
 c63a348db385e1cdb232d85296991483a7ec9b2c2e0fde2ceec65e9119781f0c
 c1ee4e2fa151098a5c052d649e4bb17ee3e6737553a3c63a40a9adaa5d5b36ae
 ff5bd1afe32f011f4b0951ed6216166aa180b9c6a80fe0076ac968d68a0a5796
-lwiy1g.exe
 8621d41192d46413f03a7b63063874492e1f59784716be332d1e30031b
-zapret-discord-youtube-1.9.0b (3).zip
 d27aa8309d97a26055b93f7396717f36767ceb4f3d27d995d5e00efb6489dba5
-5x8ei2z.exe
 86b48f96dc2d58d7d2f6887359d37318924f911bc97864a1f7c68ae2dc0c9a2c
-Setup.exe
 2c92b97a1eec3a386d502bba87546daf3711b7fa7e6ab76740f6129a9c8bc59f
-360Installer.exe
 efbcb5c468e26bbb6e0652fb71b92be35ff69780e8943c5259fb2b49ba70a6c9
-Brawl stars 2 (3).apk
-efbcb5c468e26bbb6e0652fb71b92be35ff69780e8943c5259fb2b49ba70a6c9
-Brawl stars 2 (2).apk
-efbcb5c468e26bbb6e0652fb71b92be35ff69780e8943c5259fb2b49ba70a6c9
-Brawl stars 2 (1).apk
-efbcb5c468e26bbb6e0652fb71b92be35ff69780e8943c5259fb2b49ba70a6c9
-Brawl stars 2.apk
 02001bfa07cf10b7cd30753ae937eb23aa986db4cc37b18821d413d2c8cc0fea
-Cabir.sis
 d279b25587f8d2d6e22bf6c8b534fdac0d3971ea34c2f264e29aa3c8c4390d9c
-Melissa.doc
 1ba0265c8bb16e06f9796515efdc1c790b9ea7880ca7330d41a0d4e2a41a1aea
-Samy Worm.html
 36f40d5a11d886a2280c57859cd5f22de2d78c87dcdb52ea601089745eeee494
-WannaCry (2).apk
 2482b4ff45338160063416aa0588e8d9d8098234dc2b584ed5fc3fb96947fb43
 4a47f9c49216075c6e0c9d64b2ba110ca19816fa86cb43afe9ccb941f75305a0
 33ca487a65d38bad82dccfa0d076bad071466e4183562d0b1ad1a2e954667fe9
